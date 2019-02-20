@@ -69,7 +69,7 @@ Seperti halnya bahasa pemograman yang lain, bahasa python juga mempunyai percaba
 
 ![outputprogam1](https://user-images.githubusercontent.com/46512870/52996260-a06bf080-344f-11e9-8df2-a991e17c682f.png)
 
-SEKIAN TERIMAKASIH........
+
 
 
 
